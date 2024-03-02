@@ -73,4 +73,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](http://github.com/joshosas/php-rest-api/LISCENCE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/joshosas/php-rest-api/blob/main/LISCENCE) file for details.
