@@ -32,7 +32,7 @@ This repository contains the code for a simple RESTful API built using PHP. The 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/php-rest-api.git
+   git clone https://github.com/joshosas/php-rest-api.git
    ```
 
 2. Navigate to the project directory:
